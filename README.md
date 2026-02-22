@@ -59,23 +59,3 @@
   
 
 </div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="github stats" width="420"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=твой_ник&theme=radical&hide_border=true" alt="streak" width="420"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой_ник&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top languages" width="55%" />
-</div>
-
-<br/>
-
-<p align="center">
-  <i>«Тесты должны быть быстрее, чем нервный тик заказчика»</i> 😄
-</p>
