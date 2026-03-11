@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Привет!+Я+QA+Automation+Engineer;Playwright+%2B+TypeScript;Надёжные+E2E-тесты+и+не+только" alt="typing svg" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   &nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
